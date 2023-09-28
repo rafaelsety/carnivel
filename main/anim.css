@@ -1,0 +1,33 @@
+.video {
+    text-align: center;
+    margin: 100px 0 100px 0;
+}
+/* .video1 {
+    display: block;
+} */
+.video-btn {
+    border: none;
+    margin-top: 50px;
+}
+.video-btn button {
+    border: none;
+    background-color: #EAFF66;
+    margin: 1%;
+    padding: 5px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+/* @media screen and (max-width: 800px) {
+    .video {
+      max-width: 320;
+    }
+} */
+  
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 600px) {
+    .video {
+      max-width: 320;
+    }
+} */
